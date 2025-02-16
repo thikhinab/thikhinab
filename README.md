@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a final year Computer Science undergraduate student with a strong passion for software engineering. I have dedicated my academic journey to honing my skills in computer science principles and nurturing a deep interest in crafting robust and scalable software solutions. I am driven by challenges and continuously strive to expand my knowledge and skills in the field.
+I am a Computer Science graduate with a strong passion for software engineering. I have dedicated my academic journey to honing my skills in computer science principles and nurturing a deep interest in crafting robust and scalable software solutions. I am driven by challenges and continuously strive to expand my knowledge and skills in the field.
 
 ## Skills
 
